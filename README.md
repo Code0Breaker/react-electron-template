@@ -2,6 +2,12 @@
 
 This is my Electron - TypeScript - Sass template for [Create React App](https://github.com/facebook/create-react-app).
 
+at first install this globally
+
+```sh
+npm install -g create-electron-react
+```
+
 to use it paste this in your terminal
 
 ```sh
